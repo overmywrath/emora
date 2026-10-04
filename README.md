@@ -1,4 +1,10 @@
 
+## note
+
+this bot uscks 
+
+i removed the slash commands because they r very useless, i am too lazy to clean up the 'global ban' shit though lol sorry
+
 a stupid little discord bot dedicated to kicking anyone named `emma`.
 
 ## setup
@@ -48,6 +54,3 @@ the bot should also have a role high enough to moderate the users it needs to ki
 
 `disabled.json` stores servers where automatic global bans are disabled.
 
-## note
-
-this bot uscks 
